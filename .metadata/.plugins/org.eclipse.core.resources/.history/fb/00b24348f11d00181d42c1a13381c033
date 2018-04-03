@@ -1,0 +1,7 @@
+package pack;
+ class Manager extends Employee {
+
+	
+	}
+
+}

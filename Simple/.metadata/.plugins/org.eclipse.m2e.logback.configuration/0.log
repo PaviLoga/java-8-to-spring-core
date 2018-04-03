@@ -1,0 +1,57 @@
+2018-04-03 10:53:37,921 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 10:53:39,105 [New I/O client boss #1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cocoon/cocoon-22-archetype-webapp/maven-metadata.xml
+2018-04-03 10:53:39,156 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - Could not transfer metadata org.apache.cocoon:cocoon-22-archetype-webapp/maven-metadata.xml from/to central (http://repo.maven.apache.org/maven2): Connection refused: no further information to http://repo.maven.apache.org/maven2/org/apache/cocoon/cocoon-22-archetype-webapp/maven-metadata.xml
+2018-04-03 10:55:15,822 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer org.apache.cocoon:cocoon-22-archetype-webapp/maven-metadata.xml from http://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.cocoon:cocoon-22-archetype-webapp/maven-metadata.xml from/to central (http://repo.maven.apache.org/maven2): Connection refused: no further information to http://repo.maven.apache.org/maven2/org/apache/cocoon/cocoon-22-archetype-webapp/maven-metadata.xml
+2018-04-03 10:56:17,159 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 10:56:18,214 [New I/O client boss #2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.jar
+2018-04-03 10:56:18,237 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 10:56:19,255 [New I/O client boss #3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.jar
+2018-04-03 10:56:19,272 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 10:56:20,294 [New I/O client boss #4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.jar
+2018-04-03 10:56:20,363 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 10:56:21,376 [New I/O client boss #5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.jar
+2018-04-03 10:56:21,391 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 10:56:22,408 [New I/O client boss #6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.1.1/maven-war-plugin-2.1.1.jar
+2018-04-03 10:56:22,419 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 10:56:23,457 [New I/O client boss #7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar
+2018-04-03 10:56:23,500 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 10:56:24,519 [New I/O client boss #8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+2018-04-03 10:56:24,556 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 10:56:25,570 [New I/O client boss #9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.0/maven-site-plugin-3.0.jar
+2018-04-03 10:56:25,663 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 10:56:26,677 [New I/O client boss #10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.pom
+2018-04-03 10:56:27,048 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.samples:bootsample:0.0.1-SNAPSHOT @ C:\Users\680943\workspace\Batch2\Simple\bootsample\pom.xml.
+2018-04-03 10:56:28,119 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 10:56:29,143 [New I/O client boss #11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom
+2018-04-03 10:56:29,190 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.samples:bootsample:0.0.1-SNAPSHOT @ C:\Users\680943\workspace\Batch2\Simple\bootsample\pom.xml.
+2018-04-03 11:37:01,670 [Worker-18] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 11:37:02,718 [New I/O client boss #12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar
+2018-04-03 11:37:02,788 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.samples:bootsample:0.0.1-SNAPSHOT @ C:\Users\680943\workspace\Batch2\Simple\bootsample\pom.xml.
+2018-04-03 11:37:15,450 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-03 11:37:15,473 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 11:37:16,488 [New I/O client boss #13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.jar
+2018-04-03 11:37:16,507 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 11:37:17,521 [New I/O client boss #14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.jar
+2018-04-03 11:37:17,536 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 11:37:18,549 [New I/O client boss #15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.jar
+2018-04-03 11:37:18,642 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 11:37:19,657 [New I/O client boss #16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.jar
+2018-04-03 11:37:19,677 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 11:37:20,697 [New I/O client boss #17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar
+2018-04-03 11:37:20,714 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 11:37:21,732 [New I/O client boss #18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar
+2018-04-03 11:37:21,750 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 11:37:22,762 [New I/O client boss #19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+2018-04-03 11:37:22,775 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 11:37:23,788 [New I/O client boss #20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.0/maven-site-plugin-3.0.jar
+2018-04-03 11:37:23,806 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 11:37:24,820 [New I/O client boss #21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.pom
+2018-04-03 11:37:24,853 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.samples:bootsample:0.0.1-SNAPSHOT @ C:\Users\680943\workspace\Batch2\Simple\bootsample\pom.xml.
+2018-04-03 11:37:24,904 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-04-03 11:37:25,918 [New I/O client boss #22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom
+2018-04-03 11:37:25,928 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 10 sec
+2018-04-03 11:38:07,536 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.samples:com.spring.samples:0.0.1-SNAPSHOT @ C:\Users\680943\workspace\Batch2\Simple\com.spring.samples\pom.xml.
+2018-04-03 11:38:09,055 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.samples:com.spring.samples:0.0.1-SNAPSHOT @ C:\Users\680943\workspace\Batch2\Simple\com.spring.samples\pom.xml.
+2018-04-03 11:38:48,578 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.samples:com.spring.samples:0.0.1-SNAPSHOT @ C:\Users\680943\workspace\Batch2\Simple\bootssample\pom.xml.
+2018-04-03 11:38:49,063 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.samples:com.spring.samples:0.0.1-SNAPSHOT @ C:\Users\680943\workspace\Batch2\Simple\bootssample\pom.xml.
+2018-04-03 16:26:23,261 [Worker-85] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.samples:com.spring.samples:0.0.1-SNAPSHOT @ C:\Users\680943\workspace\Batch2\Simple\bootssample\pom.xml.

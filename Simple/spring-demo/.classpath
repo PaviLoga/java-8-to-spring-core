@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Batch2 Jarfiles/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Batch2 Jarfiles/spring-framework-4.1.0.RELEASE-dist/spring-framework-4.1.0.RELEASE/jarfiles/spring-aop-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Batch2 Jarfiles/spring-framework-4.1.0.RELEASE-dist/spring-framework-4.1.0.RELEASE/jarfiles/spring-aspects-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Batch2 Jarfiles/spring-framework-4.1.0.RELEASE-dist/spring-framework-4.1.0.RELEASE/jarfiles/spring-beans-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Batch2 Jarfiles/spring-framework-4.1.0.RELEASE-dist/spring-framework-4.1.0.RELEASE/jarfiles/spring-context-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Batch2 Jarfiles/spring-framework-4.1.0.RELEASE-dist/spring-framework-4.1.0.RELEASE/jarfiles/spring-core-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Batch2 Jarfiles/spring-framework-4.1.0.RELEASE-dist/spring-framework-4.1.0.RELEASE/jarfiles/spring-expression-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Batch2 Jarfiles/spring-framework-4.1.0.RELEASE-dist/spring-framework-4.1.0.RELEASE/jarfiles/spring-jdbc-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

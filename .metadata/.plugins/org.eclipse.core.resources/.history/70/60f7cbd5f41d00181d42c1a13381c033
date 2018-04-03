@@ -1,0 +1,16 @@
+package pack;
+
+public class Manager extends Employee {
+	private int empcount;
+
+	public Manager(String name, int age, int empcount) {
+		super(name, age);
+		this.empcount = empcount;
+	}
+	
+	
+	
+	
+
+	
+}
